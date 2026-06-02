@@ -7,6 +7,7 @@
 
 ## Cambios recientes
 
+- **2026-06-01:** **Workshop Fase 0 consolidado** (bloques 9–21) en Backend [docs/crh/WORKSHOP_DECISIONS.md](../CRH-Backend/docs/crh/WORKSHOP_DECISIONS.md): navegación MVP (tabs Inicio/Eventos/Devocional/Más), login Google, push MVP vs Fase 2, marca/UI. Constitution Backend **v1.2.0 → v1.3.0** (roles 8 niveles + scopes).
 - **2026-06-01:** Auditoría forense **github/spec-kit → CRH**: sync v0.9.0 parcial; hub [FORENSE_SPEC_KIT_RESUMEN.md](../CRH-Backend/docs/crh/FORENSE_SPEC_KIT_RESUMEN.md)
 - **2026-06-01:** Adaptación forense **awesome-spec-kits → CRH (referencia)**: taxonomía SD-X; hub [FORENSE_AWESOME_SPEC_KITS_RESUMEN.md](../CRH-Backend/docs/crh/FORENSE_AWESOME_SPEC_KITS_RESUMEN.md). Sin instalar.
 - **2026-06-01:** Adaptación forense **spec-kitty → CRH (subset)**: espejo skills `speckit-review|accept|closeout` (20 SDD); hub [FORENSE_SPEC_KITTY_RESUMEN.md](../CRH-Backend/docs/crh/FORENSE_SPEC_KITTY_RESUMEN.md).
